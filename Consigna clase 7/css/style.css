@@ -1,0 +1,50 @@
+
+#spd {
+    width:565px;
+    height:200px;
+    background-color:rgb(104, 104, 182);
+   
+}
+
+body {
+    margin-left: 200px;
+    margin-top: 5px;
+    margin-right: 200px;
+    margin-bottom:5px;
+    background-color: rgba(41, 39, 153, 0.329);
+}
+
+h2 {
+    background-color: rgb(105, 105, 205);
+}
+
+h1 {
+    background-color: rgb(106, 106, 205);
+}
+
+footer {
+    width: 120px;
+    height:120px;
+    margin-left:240px;
+    margin-bottom: 5px;
+    
+    
+}
+
+#Instagram {
+   font-size: 40px;
+   color:black;
+   margin-bottom: 2px;
+   
+}
+#Facebook {
+   font-size: 40px;
+   color:black;
+   margin-bottom: 2px;
+}
+
+#Whatsapp {
+    font-size: 40px;
+    color:black;
+    margin-bottom: 2px;  
+}
